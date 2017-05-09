@@ -1,4 +1,4 @@
-# this is an simplification of the full script to determine landscape flower density from an aerial image (i.e. drone, satellite) 
+# this is an simplification of the full script to determine landscape flower density from an aerial image (i.e. UAV, satellite) 
 # there are two species examples provided: Lasthenia californica (yellow flowers) and Plagiobothrys (white flowers) 
 
 import numpy as np
