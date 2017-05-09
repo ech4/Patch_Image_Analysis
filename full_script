@@ -1,3 +1,4 @@
+# the full script batches image processing in folders, performs analysis, and outputs excel spreadsheet
 # image preprocessing and required steps: 
 # 1) when capturing images, a object with a known area must included within the image field to convert from pixels to meters (i.e. a clipboard)
 # 2) images can be in tiff, png, or jpeg format
