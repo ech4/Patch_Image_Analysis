@@ -37,7 +37,6 @@ def load_images_from_folder(folder):
 # set 1: folder of uncropped images for scaling pixels to meters
 images1, names1 = load_images_from_folder('C:/.../Lasthenia_original_tiff')
 contour_imgs = images1 
-
 # set 2: folder of cropped images to find size and density of flower patch
 images2, names2 = load_images_from_folder('C:/.../Lasthenia_clipped_tiff')
 blob_imgs = images2  
